@@ -1,4 +1,4 @@
-# tfdev_learning
+# TF Test Notebooks
 
 ## In progress: 
 * https://dev.mrdbourke.com/tensorflow-deep-learning/
