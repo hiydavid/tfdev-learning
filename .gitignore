@@ -1,7 +1,3 @@
-
 .DS_Store
-ZTM/exercises/.ipynb_checkpoints/tfdev_exercise_01-checkpoint.ipynb
-ZTM/exercises/.ipynb_checkpoints/tfdev_00-checkpoint.py
-ZTM/exercises/.ipynb_checkpoints/tfdev_exercise_00-checkpoint.ipynb
-ZTM/notebooks/.ipynb_checkpoints/tfdev_00_fundamentals-checkpoint.ipynb
-ZTM/notebooks/.ipynb_checkpoints/tfdev_01_neural_network_regression-checkpoint.ipynb
+*.ipynb_checkpoints
+*/.idea
