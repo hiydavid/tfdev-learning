@@ -1,4 +1,6 @@
-# TF Test Notebooks
+# tfdev_learning
+## Setting up:
+* https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf
 
 ## In progress: 
 * https://dev.mrdbourke.com/tensorflow-deep-learning/
